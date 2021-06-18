@@ -1,18 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yue Hu&#39;s personal page</title>
-    <link>http://hu-yue.github.io/</link>
-    <description>Recent content on Yue Hu&#39;s personal page</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Yue Hu</title>
+    <link>https://hu-yue.github.io/</link>
+    <description>Recent content on Yue Hu</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jun 2021 21:54:57 +0900</lastBuildDate><atom:link href="http://hu-yue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hu-yue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>My First Post</title>
-      <link>http://hu-yue.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 17 Jun 2021 21:54:57 +0900</pubDate>
+      <title>Slides</title>
+      <link>https://hu-yue.github.io/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://hu-yue.github.io/posts/my-first-post/</guid>
+      <guid>https://hu-yue.github.io/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://hu-yue.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://hu-yue.github.io/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://hu-yue.github.io/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://hu-yue.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://hu-yue.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://hu-yue.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/talk/</guid>
       <description></description>
     </item>
     

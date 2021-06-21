@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Yue Hu</title>
-    <link>https://hu-yue.github.io/publication/</link>
+    <link>https://hu-yue.github.io/allpublications/</link>
     <description>Recent content in Publications on Yue Hu</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Yue Hu &amp;copy; {year}</copyright>
     
-	    <atom:link href="https://hu-yue.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hu-yue.github.io/allpublications/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

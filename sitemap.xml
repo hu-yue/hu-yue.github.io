@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hu-yue.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hu-yue.github.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
@@ -26,10 +17,14 @@
   </url><url>
     <loc>https://hu-yue.github.io/publication_types/</loc>
   </url><url>
+    <loc>https://hu-yue.github.io/allpublications/</loc>
+  </url><url>
     <loc>https://hu-yue.github.io/publication/</loc>
   </url><url>
     <loc>https://hu-yue.github.io/talk/</loc>
   </url><url>
     <loc>https://hu-yue.github.io/tags/</loc>
+  </url><url>
+    <loc>https://hu-yue.github.io/</loc>
   </url>
 </urlset>

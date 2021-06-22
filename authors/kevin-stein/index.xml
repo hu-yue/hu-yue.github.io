@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Stein on Yue Hu</title>
+    <link>https://hu-yue.github.io/authors/kevin-stein/</link>
+    <description>Recent content in Kevin Stein on Yue Hu</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Yue Hu &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hu-yue.github.io/authors/kevin-stein/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Closed loop control of walking motions with adaptive choice of directions for the iCub humanoid robot</title>
+      <link>https://hu-yue.github.io/publication/2017stein_humanoids/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017stein_humanoids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking of the iCub humanoid robot in different scenarios: Implementation and performance analysis</title>
+      <link>https://hu-yue.github.io/publication/2016hu_humanoids/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2016hu_humanoids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

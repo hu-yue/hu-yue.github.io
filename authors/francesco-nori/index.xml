@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Nori on Yue Hu</title>
+    <link>https://hu-yue.github.io/authors/francesco-nori/</link>
+    <description>Recent content in Francesco Nori on Yue Hu</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Yue Hu &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hu-yue.github.io/authors/francesco-nori/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Walking of the iCub humanoid robot in different scenarios: Implementation and performance analysis</title>
+      <link>https://hu-yue.github.io/publication/2016hu_humanoids/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2016hu_humanoids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squat motion generation for the humanoid robot iCub with Series Elastic Actuators</title>
+      <link>https://hu-yue.github.io/publication/2016hu_biorob/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2016hu_biorob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squat motion generation for the humanoid robot iCub with Series Elastic Actuators</title>
+      <link>https://hu-yue.github.io/publication/2015hu_dynwalk/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2015hu_dynwalk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

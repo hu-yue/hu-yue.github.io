@@ -7,9 +7,172 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Yue Hu &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hu-yue.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Human centered robotics</title>
+      <link>https://hu-yue.github.io/tags/human-centered-robotics/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/human-centered-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human factors</title>
+      <link>https://hu-yue.github.io/tags/human-factors/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/human-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-robot interaction</title>
+      <link>https://hu-yue.github.io/tags/human-robot-interaction/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/human-robot-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coollaborative robot</title>
+      <link>https://hu-yue.github.io/tags/coollaborative-robot/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/coollaborative-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pHRI</title>
+      <link>https://hu-yue.github.io/tags/phri/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/phri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bipedal locomotion</title>
+      <link>https://hu-yue.github.io/tags/bipedal-locomotion/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/bipedal-locomotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanoid robot</title>
+      <link>https://hu-yue.github.io/tags/humanoid-robot/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/humanoid-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teleoperation</title>
+      <link>https://hu-yue.github.io/tags/teleoperation/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/teleoperation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telepresence</title>
+      <link>https://hu-yue.github.io/tags/telepresence/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/telepresence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control</title>
+      <link>https://hu-yue.github.io/tags/optimal-control/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/optimal-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMPC</title>
+      <link>https://hu-yue.github.io/tags/nmpc/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/nmpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Push recovery</title>
+      <link>https://hu-yue.github.io/tags/push-recovery/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/push-recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEA</title>
+      <link>https://hu-yue.github.io/tags/sea/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human motion analysis</title>
+      <link>https://hu-yue.github.io/tags/human-motion-analysis/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/human-motion-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint stiffness</title>
+      <link>https://hu-yue.github.io/tags/joint-stiffness/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/joint-stiffness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>https://hu-yue.github.io/tags/algorithm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel robot</title>
+      <link>https://hu-yue.github.io/tags/parallel-robot/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/parallel-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redundancy</title>
+      <link>https://hu-yue.github.io/tags/redundancy/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/redundancy/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

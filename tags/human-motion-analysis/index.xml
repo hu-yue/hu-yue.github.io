@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human motion analysis on Yue Hu</title>
+    <link>https://hu-yue.github.io/tags/human-motion-analysis/</link>
+    <description>Recent content in Human motion analysis on Yue Hu</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Yue Hu &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hu-yue.github.io/tags/human-motion-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of compliance modulation on human locomotion</title>
+      <link>https://hu-yue.github.io/publication/2017hu_icra/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017hu_icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of Motion and Compliance</title>
+      <link>https://hu-yue.github.io/publication/2017mombaur_book/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017mombaur_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of human leg joints compliance in different walking scenarios with an optimal control approach</title>
+      <link>https://hu-yue.github.io/publication/2016hu_psyco/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2016hu_psyco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compliance analysis of human leg joints in level ground walking with an optimal control approach</title>
+      <link>https://hu-yue.github.io/publication/2014hu_humanoids/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2014hu_humanoids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

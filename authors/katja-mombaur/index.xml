@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katja Mombaur on Yue Hu</title>
+    <link>https://hu-yue.github.io/authors/katja-mombaur/</link>
+    <description>Recent content in Katja Mombaur on Yue Hu</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Yue Hu &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://hu-yue.github.io/authors/katja-mombaur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Humanoid gait generation in complex environments based on template models and optimality principles learned from human beings</title>
+      <link>https://hu-yue.github.io/publication/2018clever_ijrr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2018clever_ijrr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio-Inspired Optimal Control Framework to Generate Walking Motions for the Humanoid Robot iCub Using Whole Body Models</title>
+      <link>https://hu-yue.github.io/publication/2018hu_mdpi/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2018hu_mdpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed loop control of walking motions with adaptive choice of directions for the iCub humanoid robot</title>
+      <link>https://hu-yue.github.io/publication/2017stein_humanoids/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017stein_humanoids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking of the iCub Humanoid Robot with Series Elastic Actuators: an Optimal Control Ap-proach</title>
+      <link>https://hu-yue.github.io/publication/2017hu_iros_workshop/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017hu_iros_workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking of the iCub Humanoid Robot with Series Elastic Actuators: an Optimal Control Approach</title>
+      <link>https://hu-yue.github.io/publication/2017hu_iros/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017hu_iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of compliance modulation on human locomotion</title>
+      <link>https://hu-yue.github.io/publication/2017hu_icra/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017hu_icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of Motion and Compliance</title>
+      <link>https://hu-yue.github.io/publication/2017mombaur_book/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2017mombaur_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walking of the iCub humanoid robot in different scenarios: Implementation and performance analysis</title>
+      <link>https://hu-yue.github.io/publication/2016hu_humanoids/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2016hu_humanoids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of human leg joints compliance in different walking scenarios with an optimal control approach</title>
+      <link>https://hu-yue.github.io/publication/2016hu_psyco/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2016hu_psyco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squat motion generation for the humanoid robot iCub with Series Elastic Actuators</title>
+      <link>https://hu-yue.github.io/publication/2016hu_biorob/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2016hu_biorob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squat motion generation for the humanoid robot iCub with Series Elastic Actuators</title>
+      <link>https://hu-yue.github.io/publication/2015hu_dynwalk/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2015hu_dynwalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compliance analysis of human leg joints in level ground walking with an optimal control approach</title>
+      <link>https://hu-yue.github.io/publication/2014hu_humanoids/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2014hu_humanoids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

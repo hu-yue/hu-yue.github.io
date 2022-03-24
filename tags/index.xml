@@ -7,15 +7,24 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Yue Hu &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hu-yue.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Coollaborative robot</title>
+      <link>https://hu-yue.github.io/tags/coollaborative-robot/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/tags/coollaborative-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human centered robotics</title>
       <link>https://hu-yue.github.io/tags/human-centered-robotics/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hu-yue.github.io/tags/human-centered-robotics/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>Human factors</title>
       <link>https://hu-yue.github.io/tags/human-factors/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hu-yue.github.io/tags/human-factors/</guid>
       <description></description>
@@ -33,25 +42,16 @@
     <item>
       <title>Human-robot interaction</title>
       <link>https://hu-yue.github.io/tags/human-robot-interaction/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hu-yue.github.io/tags/human-robot-interaction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Coollaborative robot</title>
-      <link>https://hu-yue.github.io/tags/coollaborative-robot/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/tags/coollaborative-robot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pHRI</title>
       <link>https://hu-yue.github.io/tags/phri/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hu-yue.github.io/tags/phri/</guid>
       <description></description>

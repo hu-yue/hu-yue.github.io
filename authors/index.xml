@@ -7,38 +7,20 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Yue Hu &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hu-yue.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Yue Hu</title>
-      <link>https://hu-yue.github.io/authors/yue-hu/</link>
-      <pubDate>Mon, 19 Jul 2021 11:30:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/authors/yue-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Naoko Abe</title>
-      <link>https://hu-yue.github.io/authors/naoko-abe/</link>
-      <pubDate>Thu, 10 Jun 2021 13:00:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/authors/naoko-abe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://hu-yue.github.io/authors/admin/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hu-yue.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a tenure track assistant professor in the Department of Mechanical &amp;amp; Mechatronics Engineering at University of Waterloo since 2021, I belong to the Automation and Control group.&lt;/p&gt;
+      <description>&lt;p&gt;I am a tenure track Assistant Professor in the Department of Mechanical &amp;amp; Mechatronics Engineering at University of Waterloo since 2021, I belong to the Automation and Control group, and I am leading the &lt;strong&gt;Active &amp;amp; Interactive Robotics Laboratory (A.I.R. Lab)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I am also one of the co-chairs of the &lt;a href=&#34;https://www.ieee-ras.org/model-based-optimization-for-robotics&#34;&gt;IEEE-RAS Technical Committee on Model-Based Optimization for Robotics&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Before UW, I lived and worked in several countries.&lt;/p&gt;
+&lt;p&gt;Before Waterloo, I lived and worked in several countries.&lt;/p&gt;
 &lt;p&gt;I got my bachelor degree in Electronics Engineering in 2011 from University of Genova, in Italy.
 Then in 2013 I obtained my masters&#39; degree (MSc) in Advanced Robotics (EMARO - European Master on Advanced Robotics) from both University of Genova and Ecole Centrale de Nantes (France).&lt;/p&gt;
 &lt;p&gt;From 2013 to 2018 I was in Heidelberg, Germany, working mainly on the humanoid robot iCub, and the analysis of human walking. I carried out my PhD in robotics (Computer Science) with the Optimization in Robotics and Biomechanics (ORB) group, at Heidelberg University, under the supervision of Prof. Dr. Katja Mombaur and Dr. Francesco Nori (Italian Institute of Technology). I obtained my degree with Summa cum laude in April 2017. I was then postdoc at ORB until February 2018.&lt;/p&gt;
@@ -47,6 +29,60 @@ Then in 2013 I obtained my masters&#39; degree (MSc) in Advanced Robotics (EMARO
 &lt;p&gt;From 2018 to 2020 I was a JSPS (Japan Society for the Promotion of Sciences) postdoctoral fellow under the supervision of Dr. Eiichi Yoshida, and in collaboration with Prof. Gentiane Venture and Dr. Mehdi Benallegue at the CNRS-AIST JRL (Joint Robotics Laboratory), National Institute of Advanced Industrial Sciences and Technology (AIST), in Tsukuba.&lt;/p&gt;
 &lt;p&gt;Between 2020 and 2021, I was an assistant professor at the GVLab lead by Prof. Gentiane Venture, in the Department of Mechanical Systems Engineering at Tokyo University of Agriculture and Technology.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Eiichi Yoshida</title>
+      <link>https://hu-yue.github.io/authors/eiichi-yoshida/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/authors/eiichi-yoshida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gentiane Venture</title>
+      <link>https://hu-yue.github.io/authors/gentiane-venture/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/authors/gentiane-venture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehdi Benallegue</title>
+      <link>https://hu-yue.github.io/authors/mehdi-benallegue/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/authors/mehdi-benallegue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naoko Abe</title>
+      <link>https://hu-yue.github.io/authors/naoko-abe/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/authors/naoko-abe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natsuki Yamanobe</title>
+      <link>https://hu-yue.github.io/authors/natsuki-yamanobe/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/authors/natsuki-yamanobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yue Hu</title>
+      <link>https://hu-yue.github.io/authors/yue-hu/</link>
+      <pubDate>Mon, 08 Nov 2021 13:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/authors/yue-hu/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -59,47 +95,11 @@ Then in 2013 I obtained my masters&#39; degree (MSc) in Advanced Robotics (EMARO
     </item>
     
     <item>
-      <title>Gentiane Venture</title>
-      <link>https://hu-yue.github.io/authors/gentiane-venture/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/authors/gentiane-venture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marie Yamamoto</title>
       <link>https://hu-yue.github.io/authors/marie-yamamoto/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://hu-yue.github.io/authors/marie-yamamoto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eiichi Yoshida</title>
-      <link>https://hu-yue.github.io/authors/eiichi-yoshida/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/authors/eiichi-yoshida/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mehdi Benallegue</title>
-      <link>https://hu-yue.github.io/authors/mehdi-benallegue/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/authors/mehdi-benallegue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natsuki Yamanobe</title>
-      <link>https://hu-yue.github.io/authors/natsuki-yamanobe/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/authors/natsuki-yamanobe/</guid>
       <description></description>
     </item>
     

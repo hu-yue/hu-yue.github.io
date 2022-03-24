@@ -7,28 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Yue Hu &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hu-yue.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://hu-yue.github.io/talk/</link>
-      <pubDate>Mon, 19 Jul 2021 11:30:00 +0000</pubDate>
-      
-      <guid>https://hu-yue.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://hu-yue.github.io/publication/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hu-yue.github.io/publication/</guid>
       <description>&lt;p&gt;Missing preprints (PDF) coming soon.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://hu-yue.github.io/talk/</link>
+      <pubDate>Mon, 08 Nov 2021 13:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/talk/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -47,6 +47,9 @@
       
       <guid>https://hu-yue.github.io/courses/</guid>
       <description>&lt;p&gt;Courses at University of Waterloo (UW)&lt;/p&gt;
+&lt;h2 id=&#34;spring-2022&#34;&gt;Spring 2022&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ME 262 - Autonomous Mobile Robots&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Number systems, logic gates, Boolean algebra. Karnaugh maps and combinational logic design. Sequential logic and state machines. Programmable Logic Controllers (PLCs) and PLC programming using ladder logic and statement list. Microcomputer structure and operation, I/O and interfacing. Assembly language programming. Laboratory work includes microcomputer and PLC programming.&lt;/p&gt;
 &lt;h2 id=&#34;fall-2021&#34;&gt;Fall 2021&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;MTE 544 - Autonomous Mobile Robots&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fundamentals of autonomous mobile robotics, including both perception and planning for autonomous operation, sensor modelling, vehicle state estimation using Bayes Filters, Kalman Filters, and Particle Filters as well as onboard localization and mapping. Topics in planning include vehicle motion modelling and control, as well as graph based and probabilistic motion planning.&lt;/p&gt;

@@ -7,17 +7,26 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Yue Hu &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hu-yue.github.io/authors/naoko-abe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Toward Active Physical Human–Robot Interaction: Quantifying the Human State During Interactions</title>
+      <link>https://hu-yue.github.io/publication/2022hu_thms/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-yue.github.io/publication/2022hu_thms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Active Physical Human-Robot Interaction, an interdisciplinary project and perspective.</title>
-      <link>https://hu-yue.github.io/talk/2021jan_gvlab-copy/</link>
+      <link>https://hu-yue.github.io/talk/2021june_siris/</link>
       <pubDate>Thu, 10 Jun 2021 13:00:00 +0000</pubDate>
       
-      <guid>https://hu-yue.github.io/talk/2021jan_gvlab-copy/</guid>
+      <guid>https://hu-yue.github.io/talk/2021june_siris/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Robots are often represented in media culture as having incredible capabilities and intelligence and seen integrated rather well into human society. But as roboticists have well learned, real robots are still far from this possibility. Robots are kept at safety distances from human users and installed in isolated and controlled environments. Two research directions have been trying to breach the barrier between humans and robots: physically (pHRI) and socially (sHRI). However, these two directions have been evolving without many intersections; pHRI focuses mainly on the development of controllers to guarantee efficiency and physical safety while sHRI centralizes on the perception and mental state of the human. It is necessary to take into account both physical and social interactions for robots to coexist and collaborate with humans. In this joint talk, Dr Hu will present the experiment where she investigates an active physical human-robot interaction (active pHRI): a type of physical interaction in which the robot should be able to achieve tasks optimally, efficiently, and safely considering the perception of human users. Dr Abe will present her qualitative analysis of the interaction between the experiment participant and the robot during a task through the interview. The talk will also address some insights on the first results and perspectives in interdisciplinary project for future developments.&lt;/p&gt;
 </description>

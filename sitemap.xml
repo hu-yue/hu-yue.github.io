@@ -2,46 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hu-yue.github.io/authors/admin/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/publication_types/2/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hu-yue.github.io/authors/</loc>
-    <lastmod>2021-07-19T11:30:00+00:00</lastmod>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/tags/coollaborative-robot/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/authors/eiichi-yoshida/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/authors/gentiane-venture/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/tags/human-centered-robotics/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/tags/human-factors/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/tags/human-robot-interaction/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/authors/mehdi-benallegue/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/authors/naoko-abe/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/authors/natsuki-yamanobe/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/tags/phri/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/publication_types/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/publication/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/tags/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/publication/2022hu_thms/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/talk/</loc>
+    <lastmod>2021-11-08T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/talk/2022nov_sirrl/</loc>
+    <lastmod>2021-11-08T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hu-yue.github.io/authors/yue-hu/</loc>
+    <lastmod>2021-11-08T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hu-yue.github.io/talk/2021jul_humanoids/</loc>
     <lastmod>2021-07-19T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://hu-yue.github.io/talk/</loc>
-    <lastmod>2021-07-19T11:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/authors/yue-hu/</loc>
-    <lastmod>2021-07-19T11:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/</loc>
-    <lastmod>2021-07-19T11:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/authors/naoko-abe/</loc>
+    <loc>https://hu-yue.github.io/talk/2021june_siris/</loc>
     <lastmod>2021-06-10T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/talk/2021jan_gvlab-copy/</loc>
-    <lastmod>2021-06-10T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/authors/admin/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hu-yue.github.io/publication_types/1/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hu-yue.github.io/authors/enrique-coronado/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/authors/gentiane-venture/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/tags/human-centered-robotics/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/tags/human-factors/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/tags/human-robot-interaction/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hu-yue.github.io/publication/2021yamamoto_roman/</loc>
@@ -50,34 +83,10 @@
     <loc>https://hu-yue.github.io/authors/marie-yamamoto/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hu-yue.github.io/publication_types/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/publication/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/tags/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hu-yue.github.io/publication/2021hu_iftomm/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hu-yue.github.io/tags/coollaborative-robot/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/authors/eiichi-yoshida/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hu-yue.github.io/project/mecademic/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/authors/mehdi-benallegue/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/authors/natsuki-yamanobe/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/tags/phri/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hu-yue.github.io/project/</loc>
@@ -85,9 +94,6 @@
   </url><url>
     <loc>https://hu-yue.github.io/talk/2021jan_gvlab/</loc>
     <lastmod>2021-01-27T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hu-yue.github.io/publication_types/2/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hu-yue.github.io/publication/2020hu_ral/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
